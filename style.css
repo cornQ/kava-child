@@ -1,0 +1,14 @@
+/*
+ Theme Name:   Kava Child
+ Theme URI:    https://crocoblock.com/kava/
+ Description:  Kava Child Theme
+ Author:       CORNQ
+ Author URI:   http://cornq.com
+ Template:     kava
+ Version:      1.0.0
+*/
+
+/* Import Kava parent theme styles */
+@import url("../kava/style.css");
+
+/* Add your custom styles below */
